@@ -1,3 +1,3 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
- mmmmmmmm
+[Ödev Linki için tıklayın] (https://app.patika.dev/moduller/git/odev1)
